@@ -467,19 +467,19 @@ public final class ActivityInfoOuterClass {
     emu.grasscutter.net.proto.Mvm2DetailInfoOuterClass.Mvm2DetailInfoOrBuilder getMvm2DetailInfoOrBuilder();
 
     /**
-     * <code>.GcgPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
+     * <code>.GCGPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
      * @return Whether the gcgPvePuzzleInfo field is set.
      */
     boolean hasGcgPvePuzzleInfo();
     /**
-     * <code>.GcgPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
+     * <code>.GCGPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
      * @return The gcgPvePuzzleInfo.
      */
-    emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo getGcgPvePuzzleInfo();
+    emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo getGcgPvePuzzleInfo();
     /**
-     * <code>.GcgPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
+     * <code>.GCGPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
      */
-    emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfoOrBuilder getGcgPvePuzzleInfoOrBuilder();
+    emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfoOrBuilder getGcgPvePuzzleInfoOrBuilder();
 
     /**
      * <code>.GachaActivityDetailInfo gacha_info = 46;</code>
@@ -662,19 +662,19 @@ public final class ActivityInfoOuterClass {
     emu.grasscutter.net.proto.EffigyChallengeV4DetailInfoOuterClass.EffigyChallengeV4DetailInfoOrBuilder getEffigyChallengeV4InfoOrBuilder();
 
     /**
-     * <code>.GcgFestivalDetailInfo gcg_festival_info = 339;</code>
+     * <code>.GCGFestivalDetailInfo gcg_festival_info = 339;</code>
      * @return Whether the gcgFestivalInfo field is set.
      */
     boolean hasGcgFestivalInfo();
     /**
-     * <code>.GcgFestivalDetailInfo gcg_festival_info = 339;</code>
+     * <code>.GCGFestivalDetailInfo gcg_festival_info = 339;</code>
      * @return The gcgFestivalInfo.
      */
-    emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo getGcgFestivalInfo();
+    emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo getGcgFestivalInfo();
     /**
-     * <code>.GcgFestivalDetailInfo gcg_festival_info = 339;</code>
+     * <code>.GCGFestivalDetailInfo gcg_festival_info = 339;</code>
      */
-    emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfoOrBuilder getGcgFestivalInfoOrBuilder();
+    emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfoOrBuilder getGcgFestivalInfoOrBuilder();
 
     /**
      * <code>.VintageActivityDetailInfo vintage_info = 1510;</code>
@@ -1322,34 +1322,34 @@ public final class ActivityInfoOuterClass {
     emu.grasscutter.net.proto.GreatFestivalV2DetailInfoOuterClass.GreatFestivalV2DetailInfoOrBuilder getGreatFestivalV2DetailInfoOrBuilder();
 
     /**
-     * <code>.GcgPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
+     * <code>.GCGPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
      * @return Whether the gcgPveInfiniteInfo field is set.
      */
     boolean hasGcgPveInfiniteInfo();
     /**
-     * <code>.GcgPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
+     * <code>.GCGPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
      * @return The gcgPveInfiniteInfo.
      */
-    emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo getGcgPveInfiniteInfo();
+    emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo getGcgPveInfiniteInfo();
     /**
-     * <code>.GcgPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
+     * <code>.GCGPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
      */
-    emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfoOrBuilder getGcgPveInfiniteInfoOrBuilder();
+    emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfoOrBuilder getGcgPveInfiniteInfoOrBuilder();
 
     /**
-     * <code>.GcgPveDetailInfo gcg_pve_info = 1398;</code>
+     * <code>.GCGPveDetailInfo gcg_pve_info = 1398;</code>
      * @return Whether the gcgPveInfo field is set.
      */
     boolean hasGcgPveInfo();
     /**
-     * <code>.GcgPveDetailInfo gcg_pve_info = 1398;</code>
+     * <code>.GCGPveDetailInfo gcg_pve_info = 1398;</code>
      * @return The gcgPveInfo.
      */
-    emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo getGcgPveInfo();
+    emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo getGcgPveInfo();
     /**
-     * <code>.GcgPveDetailInfo gcg_pve_info = 1398;</code>
+     * <code>.GCGPveDetailInfo gcg_pve_info = 1398;</code>
      */
-    emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfoOrBuilder getGcgPveInfoOrBuilder();
+    emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfoOrBuilder getGcgPveInfoOrBuilder();
 
     /**
      * <code>.SorushTrialDetailInfo sorush_trial_info = 426;</code>
@@ -2177,19 +2177,19 @@ public final class ActivityInfoOuterClass {
     emu.grasscutter.net.proto.AsterActivityDetailInfoOuterClass.AsterActivityDetailInfoOrBuilder getAsterInfoOrBuilder();
 
     /**
-     * <code>.GcgAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
+     * <code>.GCGAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
      * @return Whether the gcgAutoBattleCardDetailInfo field is set.
      */
     boolean hasGcgAutoBattleCardDetailInfo();
     /**
-     * <code>.GcgAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
+     * <code>.GCGAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
      * @return The gcgAutoBattleCardDetailInfo.
      */
-    emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo getGcgAutoBattleCardDetailInfo();
+    emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo getGcgAutoBattleCardDetailInfo();
     /**
-     * <code>.GcgAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
+     * <code>.GCGAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
      */
-    emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfoOrBuilder getGcgAutoBattleCardDetailInfoOrBuilder();
+    emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfoOrBuilder getGcgAutoBattleCardDetailInfoOrBuilder();
 
     /**
      * <code>.SummerTimeDetailInfo summer_time_info = 993;</code>
@@ -2815,14 +2815,14 @@ public final class ActivityInfoOuterClass {
               break;
             }
             case 2714: {
-              emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo.Builder subBuilder = null;
+              emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo.Builder subBuilder = null;
               if (detailCase_ == 339) {
-                subBuilder = ((emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo) detail_).toBuilder();
+                subBuilder = ((emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo) detail_).toBuilder();
               }
               detail_ =
-                  input.readMessage(emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo.parser(), extensionRegistry);
+                  input.readMessage(emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo.parser(), extensionRegistry);
               if (subBuilder != null) {
-                subBuilder.mergeFrom((emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo) detail_);
+                subBuilder.mergeFrom((emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo) detail_);
                 detail_ = subBuilder.buildPartial();
               }
               detailCase_ = 339;
@@ -3172,14 +3172,14 @@ public final class ActivityInfoOuterClass {
               break;
             }
             case 4954: {
-              emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo.Builder subBuilder = null;
+              emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo.Builder subBuilder = null;
               if (detailCase_ == 619) {
-                subBuilder = ((emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo) detail_).toBuilder();
+                subBuilder = ((emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo) detail_).toBuilder();
               }
               detail_ =
-                  input.readMessage(emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo.parser(), extensionRegistry);
+                  input.readMessage(emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo.parser(), extensionRegistry);
               if (subBuilder != null) {
-                subBuilder.mergeFrom((emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo) detail_);
+                subBuilder.mergeFrom((emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo) detail_);
                 detail_ = subBuilder.buildPartial();
               }
               detailCase_ = 619;
@@ -3832,14 +3832,14 @@ public final class ActivityInfoOuterClass {
               break;
             }
             case 11186: {
-              emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo.Builder subBuilder = null;
+              emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo.Builder subBuilder = null;
               if (detailCase_ == 1398) {
-                subBuilder = ((emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo) detail_).toBuilder();
+                subBuilder = ((emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo) detail_).toBuilder();
               }
               detail_ =
-                  input.readMessage(emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo.parser(), extensionRegistry);
+                  input.readMessage(emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo.parser(), extensionRegistry);
               if (subBuilder != null) {
-                subBuilder.mergeFrom((emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo) detail_);
+                subBuilder.mergeFrom((emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo) detail_);
                 detail_ = subBuilder.buildPartial();
               }
               detailCase_ = 1398;
@@ -4322,14 +4322,14 @@ public final class ActivityInfoOuterClass {
               break;
             }
             case 14906: {
-              emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo.Builder subBuilder = null;
+              emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo.Builder subBuilder = null;
               if (detailCase_ == 1863) {
-                subBuilder = ((emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo) detail_).toBuilder();
+                subBuilder = ((emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo) detail_).toBuilder();
               }
               detail_ =
-                  input.readMessage(emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo.parser(), extensionRegistry);
+                  input.readMessage(emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo.parser(), extensionRegistry);
               if (subBuilder != null) {
-                subBuilder.mergeFrom((emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo) detail_);
+                subBuilder.mergeFrom((emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo) detail_);
                 detail_ = subBuilder.buildPartial();
               }
               detailCase_ = 1863;
@@ -4433,14 +4433,14 @@ public final class ActivityInfoOuterClass {
               break;
             }
             case 15562: {
-              emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo.Builder subBuilder = null;
+              emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo.Builder subBuilder = null;
               if (detailCase_ == 1945) {
-                subBuilder = ((emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo) detail_).toBuilder();
+                subBuilder = ((emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo) detail_).toBuilder();
               }
               detail_ =
-                  input.readMessage(emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo.parser(), extensionRegistry);
+                  input.readMessage(emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo.parser(), extensionRegistry);
               if (subBuilder != null) {
-                subBuilder.mergeFrom((emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo) detail_);
+                subBuilder.mergeFrom((emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo) detail_);
                 detail_ = subBuilder.buildPartial();
               }
               detailCase_ = 1945;
@@ -5844,7 +5844,7 @@ public final class ActivityInfoOuterClass {
 
     public static final int GCG_PVE_PUZZLE_INFO_FIELD_NUMBER = 1863;
     /**
-     * <code>.GcgPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
+     * <code>.GCGPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
      * @return Whether the gcgPvePuzzleInfo field is set.
      */
     @java.lang.Override
@@ -5852,25 +5852,25 @@ public final class ActivityInfoOuterClass {
       return detailCase_ == 1863;
     }
     /**
-     * <code>.GcgPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
+     * <code>.GCGPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
      * @return The gcgPvePuzzleInfo.
      */
     @java.lang.Override
-    public emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo getGcgPvePuzzleInfo() {
+    public emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo getGcgPvePuzzleInfo() {
       if (detailCase_ == 1863) {
-         return (emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo) detail_;
+         return (emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo) detail_;
       }
-      return emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo.getDefaultInstance();
+      return emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo.getDefaultInstance();
     }
     /**
-     * <code>.GcgPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
+     * <code>.GCGPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
      */
     @java.lang.Override
-    public emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfoOrBuilder getGcgPvePuzzleInfoOrBuilder() {
+    public emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfoOrBuilder getGcgPvePuzzleInfoOrBuilder() {
       if (detailCase_ == 1863) {
-         return (emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo) detail_;
+         return (emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo) detail_;
       }
-      return emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo.getDefaultInstance();
+      return emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo.getDefaultInstance();
     }
 
     public static final int GACHA_INFO_FIELD_NUMBER = 46;
@@ -6247,7 +6247,7 @@ public final class ActivityInfoOuterClass {
 
     public static final int GCG_FESTIVAL_INFO_FIELD_NUMBER = 339;
     /**
-     * <code>.GcgFestivalDetailInfo gcg_festival_info = 339;</code>
+     * <code>.GCGFestivalDetailInfo gcg_festival_info = 339;</code>
      * @return Whether the gcgFestivalInfo field is set.
      */
     @java.lang.Override
@@ -6255,25 +6255,25 @@ public final class ActivityInfoOuterClass {
       return detailCase_ == 339;
     }
     /**
-     * <code>.GcgFestivalDetailInfo gcg_festival_info = 339;</code>
+     * <code>.GCGFestivalDetailInfo gcg_festival_info = 339;</code>
      * @return The gcgFestivalInfo.
      */
     @java.lang.Override
-    public emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo getGcgFestivalInfo() {
+    public emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo getGcgFestivalInfo() {
       if (detailCase_ == 339) {
-         return (emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo) detail_;
+         return (emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo) detail_;
       }
-      return emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo.getDefaultInstance();
+      return emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo.getDefaultInstance();
     }
     /**
-     * <code>.GcgFestivalDetailInfo gcg_festival_info = 339;</code>
+     * <code>.GCGFestivalDetailInfo gcg_festival_info = 339;</code>
      */
     @java.lang.Override
-    public emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfoOrBuilder getGcgFestivalInfoOrBuilder() {
+    public emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfoOrBuilder getGcgFestivalInfoOrBuilder() {
       if (detailCase_ == 339) {
-         return (emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo) detail_;
+         return (emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo) detail_;
       }
-      return emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo.getDefaultInstance();
+      return emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo.getDefaultInstance();
     }
 
     public static final int VINTAGE_INFO_FIELD_NUMBER = 1510;
@@ -7611,7 +7611,7 @@ public final class ActivityInfoOuterClass {
 
     public static final int GCG_PVE_INFINITE_INFO_FIELD_NUMBER = 1945;
     /**
-     * <code>.GcgPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
+     * <code>.GCGPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
      * @return Whether the gcgPveInfiniteInfo field is set.
      */
     @java.lang.Override
@@ -7619,30 +7619,30 @@ public final class ActivityInfoOuterClass {
       return detailCase_ == 1945;
     }
     /**
-     * <code>.GcgPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
+     * <code>.GCGPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
      * @return The gcgPveInfiniteInfo.
      */
     @java.lang.Override
-    public emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo getGcgPveInfiniteInfo() {
+    public emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo getGcgPveInfiniteInfo() {
       if (detailCase_ == 1945) {
-         return (emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo) detail_;
+         return (emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo) detail_;
       }
-      return emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo.getDefaultInstance();
+      return emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo.getDefaultInstance();
     }
     /**
-     * <code>.GcgPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
+     * <code>.GCGPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
      */
     @java.lang.Override
-    public emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfoOrBuilder getGcgPveInfiniteInfoOrBuilder() {
+    public emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfoOrBuilder getGcgPveInfiniteInfoOrBuilder() {
       if (detailCase_ == 1945) {
-         return (emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo) detail_;
+         return (emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo) detail_;
       }
-      return emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo.getDefaultInstance();
+      return emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo.getDefaultInstance();
     }
 
     public static final int GCG_PVE_INFO_FIELD_NUMBER = 1398;
     /**
-     * <code>.GcgPveDetailInfo gcg_pve_info = 1398;</code>
+     * <code>.GCGPveDetailInfo gcg_pve_info = 1398;</code>
      * @return Whether the gcgPveInfo field is set.
      */
     @java.lang.Override
@@ -7650,25 +7650,25 @@ public final class ActivityInfoOuterClass {
       return detailCase_ == 1398;
     }
     /**
-     * <code>.GcgPveDetailInfo gcg_pve_info = 1398;</code>
+     * <code>.GCGPveDetailInfo gcg_pve_info = 1398;</code>
      * @return The gcgPveInfo.
      */
     @java.lang.Override
-    public emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo getGcgPveInfo() {
+    public emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo getGcgPveInfo() {
       if (detailCase_ == 1398) {
-         return (emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo) detail_;
+         return (emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo) detail_;
       }
-      return emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo.getDefaultInstance();
+      return emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo.getDefaultInstance();
     }
     /**
-     * <code>.GcgPveDetailInfo gcg_pve_info = 1398;</code>
+     * <code>.GCGPveDetailInfo gcg_pve_info = 1398;</code>
      */
     @java.lang.Override
-    public emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfoOrBuilder getGcgPveInfoOrBuilder() {
+    public emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfoOrBuilder getGcgPveInfoOrBuilder() {
       if (detailCase_ == 1398) {
-         return (emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo) detail_;
+         return (emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo) detail_;
       }
-      return emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo.getDefaultInstance();
+      return emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo.getDefaultInstance();
     }
 
     public static final int SORUSH_TRIAL_INFO_FIELD_NUMBER = 426;
@@ -9378,7 +9378,7 @@ public final class ActivityInfoOuterClass {
 
     public static final int GCG_AUTO_BATTLE_CARD_DETAIL_INFO_FIELD_NUMBER = 619;
     /**
-     * <code>.GcgAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
+     * <code>.GCGAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
      * @return Whether the gcgAutoBattleCardDetailInfo field is set.
      */
     @java.lang.Override
@@ -9386,25 +9386,25 @@ public final class ActivityInfoOuterClass {
       return detailCase_ == 619;
     }
     /**
-     * <code>.GcgAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
+     * <code>.GCGAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
      * @return The gcgAutoBattleCardDetailInfo.
      */
     @java.lang.Override
-    public emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo getGcgAutoBattleCardDetailInfo() {
+    public emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo getGcgAutoBattleCardDetailInfo() {
       if (detailCase_ == 619) {
-         return (emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo) detail_;
+         return (emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo) detail_;
       }
-      return emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo.getDefaultInstance();
+      return emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo.getDefaultInstance();
     }
     /**
-     * <code>.GcgAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
+     * <code>.GCGAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
      */
     @java.lang.Override
-    public emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfoOrBuilder getGcgAutoBattleCardDetailInfoOrBuilder() {
+    public emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfoOrBuilder getGcgAutoBattleCardDetailInfoOrBuilder() {
       if (detailCase_ == 619) {
-         return (emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo) detail_;
+         return (emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo) detail_;
       }
-      return emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo.getDefaultInstance();
+      return emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo.getDefaultInstance();
     }
 
     public static final int SUMMER_TIME_INFO_FIELD_NUMBER = 993;
@@ -9896,7 +9896,7 @@ public final class ActivityInfoOuterClass {
         output.writeMessage(318, (emu.grasscutter.net.proto.LostSamachurlDetailInfoOuterClass.LostSamachurlDetailInfo) detail_);
       }
       if (detailCase_ == 339) {
-        output.writeMessage(339, (emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo) detail_);
+        output.writeMessage(339, (emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo) detail_);
       }
       if (detailCase_ == 347) {
         output.writeMessage(347, (emu.grasscutter.net.proto.GreatFestivalV2DetailInfoOuterClass.GreatFestivalV2DetailInfo) detail_);
@@ -9975,7 +9975,7 @@ public final class ActivityInfoOuterClass {
         output.writeMessage(616, (emu.grasscutter.net.proto.Mvm2DetailInfoOuterClass.Mvm2DetailInfo) detail_);
       }
       if (detailCase_ == 619) {
-        output.writeMessage(619, (emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo) detail_);
+        output.writeMessage(619, (emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo) detail_);
       }
       if (detailCase_ == 627) {
         output.writeMessage(627, (emu.grasscutter.net.proto.WindFieldDetailInfoOuterClass.WindFieldDetailInfo) detail_);
@@ -10129,7 +10129,7 @@ public final class ActivityInfoOuterClass {
         output.writeBool(1387, isBannerCleared_);
       }
       if (detailCase_ == 1398) {
-        output.writeMessage(1398, (emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo) detail_);
+        output.writeMessage(1398, (emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo) detail_);
       }
       if (detailCase_ == 1413) {
         output.writeMessage(1413, (emu.grasscutter.net.proto.SeaLampActivityInfoOuterClass.SeaLampActivityInfo) detail_);
@@ -10234,7 +10234,7 @@ public final class ActivityInfoOuterClass {
         output.writeMessage(1861, (emu.grasscutter.net.proto.NatlanRaceDetailInfoOuterClass.NatlanRaceDetailInfo) detail_);
       }
       if (detailCase_ == 1863) {
-        output.writeMessage(1863, (emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo) detail_);
+        output.writeMessage(1863, (emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo) detail_);
       }
       if (detailCase_ == 1865) {
         output.writeMessage(1865, (emu.grasscutter.net.proto.EchoShellDetailInfoOuterClass.EchoShellDetailInfo) detail_);
@@ -10261,7 +10261,7 @@ public final class ActivityInfoOuterClass {
           ActivityCoinMapDefaultEntryHolder.defaultEntry,
           1944);
       if (detailCase_ == 1945) {
-        output.writeMessage(1945, (emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo) detail_);
+        output.writeMessage(1945, (emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo) detail_);
       }
       if (detailCase_ == 1952) {
         output.writeMessage(1952, (emu.grasscutter.net.proto.MonsterChessDetailInfoOuterClass.MonsterChessDetailInfo) detail_);
@@ -10445,7 +10445,7 @@ public final class ActivityInfoOuterClass {
       }
       if (detailCase_ == 339) {
         size += com.google.protobuf.CodedOutputStream
-          .computeMessageSize(339, (emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo) detail_);
+          .computeMessageSize(339, (emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo) detail_);
       }
       if (detailCase_ == 347) {
         size += com.google.protobuf.CodedOutputStream
@@ -10555,7 +10555,7 @@ public final class ActivityInfoOuterClass {
       }
       if (detailCase_ == 619) {
         size += com.google.protobuf.CodedOutputStream
-          .computeMessageSize(619, (emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo) detail_);
+          .computeMessageSize(619, (emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo) detail_);
       }
       if (detailCase_ == 627) {
         size += com.google.protobuf.CodedOutputStream
@@ -10767,7 +10767,7 @@ public final class ActivityInfoOuterClass {
       }
       if (detailCase_ == 1398) {
         size += com.google.protobuf.CodedOutputStream
-          .computeMessageSize(1398, (emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo) detail_);
+          .computeMessageSize(1398, (emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo) detail_);
       }
       if (detailCase_ == 1413) {
         size += com.google.protobuf.CodedOutputStream
@@ -10907,7 +10907,7 @@ public final class ActivityInfoOuterClass {
       }
       if (detailCase_ == 1863) {
         size += com.google.protobuf.CodedOutputStream
-          .computeMessageSize(1863, (emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo) detail_);
+          .computeMessageSize(1863, (emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo) detail_);
       }
       if (detailCase_ == 1865) {
         size += com.google.protobuf.CodedOutputStream
@@ -10945,7 +10945,7 @@ public final class ActivityInfoOuterClass {
       }
       if (detailCase_ == 1945) {
         size += com.google.protobuf.CodedOutputStream
-          .computeMessageSize(1945, (emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo) detail_);
+          .computeMessageSize(1945, (emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo) detail_);
       }
       if (detailCase_ == 1952) {
         size += com.google.protobuf.CodedOutputStream
@@ -17592,9 +17592,9 @@ public final class ActivityInfoOuterClass {
       }
 
       private com.google.protobuf.SingleFieldBuilderV3<
-          emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo, emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo.Builder, emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfoOrBuilder> gcgPvePuzzleInfoBuilder_;
+          emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo, emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo.Builder, emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfoOrBuilder> gcgPvePuzzleInfoBuilder_;
       /**
-       * <code>.GcgPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
+       * <code>.GCGPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
        * @return Whether the gcgPvePuzzleInfo field is set.
        */
       @java.lang.Override
@@ -17602,27 +17602,27 @@ public final class ActivityInfoOuterClass {
         return detailCase_ == 1863;
       }
       /**
-       * <code>.GcgPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
+       * <code>.GCGPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
        * @return The gcgPvePuzzleInfo.
        */
       @java.lang.Override
-      public emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo getGcgPvePuzzleInfo() {
+      public emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo getGcgPvePuzzleInfo() {
         if (gcgPvePuzzleInfoBuilder_ == null) {
           if (detailCase_ == 1863) {
-            return (emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo) detail_;
+            return (emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo) detail_;
           }
-          return emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo.getDefaultInstance();
+          return emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo.getDefaultInstance();
         } else {
           if (detailCase_ == 1863) {
             return gcgPvePuzzleInfoBuilder_.getMessage();
           }
-          return emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo.getDefaultInstance();
+          return emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo.getDefaultInstance();
         }
       }
       /**
-       * <code>.GcgPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
+       * <code>.GCGPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
        */
-      public Builder setGcgPvePuzzleInfo(emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo value) {
+      public Builder setGcgPvePuzzleInfo(emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo value) {
         if (gcgPvePuzzleInfoBuilder_ == null) {
           if (value == null) {
             throw new NullPointerException();
@@ -17636,10 +17636,10 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
+       * <code>.GCGPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
        */
       public Builder setGcgPvePuzzleInfo(
-          emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo.Builder builderForValue) {
+          emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo.Builder builderForValue) {
         if (gcgPvePuzzleInfoBuilder_ == null) {
           detail_ = builderForValue.build();
           onChanged();
@@ -17650,13 +17650,13 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
+       * <code>.GCGPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
        */
-      public Builder mergeGcgPvePuzzleInfo(emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo value) {
+      public Builder mergeGcgPvePuzzleInfo(emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo value) {
         if (gcgPvePuzzleInfoBuilder_ == null) {
           if (detailCase_ == 1863 &&
-              detail_ != emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo.getDefaultInstance()) {
-            detail_ = emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo.newBuilder((emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo) detail_)
+              detail_ != emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo.getDefaultInstance()) {
+            detail_ = emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo.newBuilder((emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo) detail_)
                 .mergeFrom(value).buildPartial();
           } else {
             detail_ = value;
@@ -17672,7 +17672,7 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
+       * <code>.GCGPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
        */
       public Builder clearGcgPvePuzzleInfo() {
         if (gcgPvePuzzleInfoBuilder_ == null) {
@@ -17691,38 +17691,38 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
+       * <code>.GCGPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
        */
-      public emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo.Builder getGcgPvePuzzleInfoBuilder() {
+      public emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo.Builder getGcgPvePuzzleInfoBuilder() {
         return getGcgPvePuzzleInfoFieldBuilder().getBuilder();
       }
       /**
-       * <code>.GcgPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
+       * <code>.GCGPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
        */
       @java.lang.Override
-      public emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfoOrBuilder getGcgPvePuzzleInfoOrBuilder() {
+      public emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfoOrBuilder getGcgPvePuzzleInfoOrBuilder() {
         if ((detailCase_ == 1863) && (gcgPvePuzzleInfoBuilder_ != null)) {
           return gcgPvePuzzleInfoBuilder_.getMessageOrBuilder();
         } else {
           if (detailCase_ == 1863) {
-            return (emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo) detail_;
+            return (emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo) detail_;
           }
-          return emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo.getDefaultInstance();
+          return emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo.getDefaultInstance();
         }
       }
       /**
-       * <code>.GcgPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
+       * <code>.GCGPvePuzzleDetailInfo gcg_pve_puzzle_info = 1863;</code>
        */
       private com.google.protobuf.SingleFieldBuilderV3<
-          emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo, emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo.Builder, emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfoOrBuilder> 
+          emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo, emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo.Builder, emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfoOrBuilder> 
           getGcgPvePuzzleInfoFieldBuilder() {
         if (gcgPvePuzzleInfoBuilder_ == null) {
           if (!(detailCase_ == 1863)) {
-            detail_ = emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo.getDefaultInstance();
+            detail_ = emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo.getDefaultInstance();
           }
           gcgPvePuzzleInfoBuilder_ = new com.google.protobuf.SingleFieldBuilderV3<
-              emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo, emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo.Builder, emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfoOrBuilder>(
-                  (emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.GcgPvePuzzleDetailInfo) detail_,
+              emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo, emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo.Builder, emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfoOrBuilder>(
+                  (emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.GCGPvePuzzleDetailInfo) detail_,
                   getParentForChildren(),
                   isClean());
           detail_ = null;
@@ -19425,9 +19425,9 @@ public final class ActivityInfoOuterClass {
       }
 
       private com.google.protobuf.SingleFieldBuilderV3<
-          emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo, emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo.Builder, emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfoOrBuilder> gcgFestivalInfoBuilder_;
+          emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo, emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo.Builder, emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfoOrBuilder> gcgFestivalInfoBuilder_;
       /**
-       * <code>.GcgFestivalDetailInfo gcg_festival_info = 339;</code>
+       * <code>.GCGFestivalDetailInfo gcg_festival_info = 339;</code>
        * @return Whether the gcgFestivalInfo field is set.
        */
       @java.lang.Override
@@ -19435,27 +19435,27 @@ public final class ActivityInfoOuterClass {
         return detailCase_ == 339;
       }
       /**
-       * <code>.GcgFestivalDetailInfo gcg_festival_info = 339;</code>
+       * <code>.GCGFestivalDetailInfo gcg_festival_info = 339;</code>
        * @return The gcgFestivalInfo.
        */
       @java.lang.Override
-      public emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo getGcgFestivalInfo() {
+      public emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo getGcgFestivalInfo() {
         if (gcgFestivalInfoBuilder_ == null) {
           if (detailCase_ == 339) {
-            return (emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo) detail_;
+            return (emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo) detail_;
           }
-          return emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo.getDefaultInstance();
+          return emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo.getDefaultInstance();
         } else {
           if (detailCase_ == 339) {
             return gcgFestivalInfoBuilder_.getMessage();
           }
-          return emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo.getDefaultInstance();
+          return emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo.getDefaultInstance();
         }
       }
       /**
-       * <code>.GcgFestivalDetailInfo gcg_festival_info = 339;</code>
+       * <code>.GCGFestivalDetailInfo gcg_festival_info = 339;</code>
        */
-      public Builder setGcgFestivalInfo(emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo value) {
+      public Builder setGcgFestivalInfo(emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo value) {
         if (gcgFestivalInfoBuilder_ == null) {
           if (value == null) {
             throw new NullPointerException();
@@ -19469,10 +19469,10 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgFestivalDetailInfo gcg_festival_info = 339;</code>
+       * <code>.GCGFestivalDetailInfo gcg_festival_info = 339;</code>
        */
       public Builder setGcgFestivalInfo(
-          emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo.Builder builderForValue) {
+          emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo.Builder builderForValue) {
         if (gcgFestivalInfoBuilder_ == null) {
           detail_ = builderForValue.build();
           onChanged();
@@ -19483,13 +19483,13 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgFestivalDetailInfo gcg_festival_info = 339;</code>
+       * <code>.GCGFestivalDetailInfo gcg_festival_info = 339;</code>
        */
-      public Builder mergeGcgFestivalInfo(emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo value) {
+      public Builder mergeGcgFestivalInfo(emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo value) {
         if (gcgFestivalInfoBuilder_ == null) {
           if (detailCase_ == 339 &&
-              detail_ != emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo.getDefaultInstance()) {
-            detail_ = emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo.newBuilder((emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo) detail_)
+              detail_ != emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo.getDefaultInstance()) {
+            detail_ = emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo.newBuilder((emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo) detail_)
                 .mergeFrom(value).buildPartial();
           } else {
             detail_ = value;
@@ -19505,7 +19505,7 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgFestivalDetailInfo gcg_festival_info = 339;</code>
+       * <code>.GCGFestivalDetailInfo gcg_festival_info = 339;</code>
        */
       public Builder clearGcgFestivalInfo() {
         if (gcgFestivalInfoBuilder_ == null) {
@@ -19524,38 +19524,38 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgFestivalDetailInfo gcg_festival_info = 339;</code>
+       * <code>.GCGFestivalDetailInfo gcg_festival_info = 339;</code>
        */
-      public emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo.Builder getGcgFestivalInfoBuilder() {
+      public emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo.Builder getGcgFestivalInfoBuilder() {
         return getGcgFestivalInfoFieldBuilder().getBuilder();
       }
       /**
-       * <code>.GcgFestivalDetailInfo gcg_festival_info = 339;</code>
+       * <code>.GCGFestivalDetailInfo gcg_festival_info = 339;</code>
        */
       @java.lang.Override
-      public emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfoOrBuilder getGcgFestivalInfoOrBuilder() {
+      public emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfoOrBuilder getGcgFestivalInfoOrBuilder() {
         if ((detailCase_ == 339) && (gcgFestivalInfoBuilder_ != null)) {
           return gcgFestivalInfoBuilder_.getMessageOrBuilder();
         } else {
           if (detailCase_ == 339) {
-            return (emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo) detail_;
+            return (emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo) detail_;
           }
-          return emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo.getDefaultInstance();
+          return emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo.getDefaultInstance();
         }
       }
       /**
-       * <code>.GcgFestivalDetailInfo gcg_festival_info = 339;</code>
+       * <code>.GCGFestivalDetailInfo gcg_festival_info = 339;</code>
        */
       private com.google.protobuf.SingleFieldBuilderV3<
-          emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo, emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo.Builder, emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfoOrBuilder> 
+          emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo, emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo.Builder, emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfoOrBuilder> 
           getGcgFestivalInfoFieldBuilder() {
         if (gcgFestivalInfoBuilder_ == null) {
           if (!(detailCase_ == 339)) {
-            detail_ = emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo.getDefaultInstance();
+            detail_ = emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo.getDefaultInstance();
           }
           gcgFestivalInfoBuilder_ = new com.google.protobuf.SingleFieldBuilderV3<
-              emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo, emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo.Builder, emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfoOrBuilder>(
-                  (emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.GcgFestivalDetailInfo) detail_,
+              emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo, emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo.Builder, emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfoOrBuilder>(
+                  (emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.GCGFestivalDetailInfo) detail_,
                   getParentForChildren(),
                   isClean());
           detail_ = null;
@@ -25629,9 +25629,9 @@ public final class ActivityInfoOuterClass {
       }
 
       private com.google.protobuf.SingleFieldBuilderV3<
-          emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo, emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo.Builder, emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfoOrBuilder> gcgPveInfiniteInfoBuilder_;
+          emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo, emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo.Builder, emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfoOrBuilder> gcgPveInfiniteInfoBuilder_;
       /**
-       * <code>.GcgPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
+       * <code>.GCGPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
        * @return Whether the gcgPveInfiniteInfo field is set.
        */
       @java.lang.Override
@@ -25639,27 +25639,27 @@ public final class ActivityInfoOuterClass {
         return detailCase_ == 1945;
       }
       /**
-       * <code>.GcgPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
+       * <code>.GCGPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
        * @return The gcgPveInfiniteInfo.
        */
       @java.lang.Override
-      public emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo getGcgPveInfiniteInfo() {
+      public emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo getGcgPveInfiniteInfo() {
         if (gcgPveInfiniteInfoBuilder_ == null) {
           if (detailCase_ == 1945) {
-            return (emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo) detail_;
+            return (emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo) detail_;
           }
-          return emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo.getDefaultInstance();
+          return emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo.getDefaultInstance();
         } else {
           if (detailCase_ == 1945) {
             return gcgPveInfiniteInfoBuilder_.getMessage();
           }
-          return emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo.getDefaultInstance();
+          return emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo.getDefaultInstance();
         }
       }
       /**
-       * <code>.GcgPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
+       * <code>.GCGPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
        */
-      public Builder setGcgPveInfiniteInfo(emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo value) {
+      public Builder setGcgPveInfiniteInfo(emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo value) {
         if (gcgPveInfiniteInfoBuilder_ == null) {
           if (value == null) {
             throw new NullPointerException();
@@ -25673,10 +25673,10 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
+       * <code>.GCGPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
        */
       public Builder setGcgPveInfiniteInfo(
-          emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo.Builder builderForValue) {
+          emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo.Builder builderForValue) {
         if (gcgPveInfiniteInfoBuilder_ == null) {
           detail_ = builderForValue.build();
           onChanged();
@@ -25687,13 +25687,13 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
+       * <code>.GCGPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
        */
-      public Builder mergeGcgPveInfiniteInfo(emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo value) {
+      public Builder mergeGcgPveInfiniteInfo(emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo value) {
         if (gcgPveInfiniteInfoBuilder_ == null) {
           if (detailCase_ == 1945 &&
-              detail_ != emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo.getDefaultInstance()) {
-            detail_ = emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo.newBuilder((emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo) detail_)
+              detail_ != emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo.getDefaultInstance()) {
+            detail_ = emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo.newBuilder((emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo) detail_)
                 .mergeFrom(value).buildPartial();
           } else {
             detail_ = value;
@@ -25709,7 +25709,7 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
+       * <code>.GCGPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
        */
       public Builder clearGcgPveInfiniteInfo() {
         if (gcgPveInfiniteInfoBuilder_ == null) {
@@ -25728,38 +25728,38 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
+       * <code>.GCGPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
        */
-      public emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo.Builder getGcgPveInfiniteInfoBuilder() {
+      public emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo.Builder getGcgPveInfiniteInfoBuilder() {
         return getGcgPveInfiniteInfoFieldBuilder().getBuilder();
       }
       /**
-       * <code>.GcgPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
+       * <code>.GCGPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
        */
       @java.lang.Override
-      public emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfoOrBuilder getGcgPveInfiniteInfoOrBuilder() {
+      public emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfoOrBuilder getGcgPveInfiniteInfoOrBuilder() {
         if ((detailCase_ == 1945) && (gcgPveInfiniteInfoBuilder_ != null)) {
           return gcgPveInfiniteInfoBuilder_.getMessageOrBuilder();
         } else {
           if (detailCase_ == 1945) {
-            return (emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo) detail_;
+            return (emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo) detail_;
           }
-          return emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo.getDefaultInstance();
+          return emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo.getDefaultInstance();
         }
       }
       /**
-       * <code>.GcgPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
+       * <code>.GCGPveInfiniteDetailInfo gcg_pve_infinite_info = 1945;</code>
        */
       private com.google.protobuf.SingleFieldBuilderV3<
-          emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo, emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo.Builder, emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfoOrBuilder> 
+          emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo, emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo.Builder, emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfoOrBuilder> 
           getGcgPveInfiniteInfoFieldBuilder() {
         if (gcgPveInfiniteInfoBuilder_ == null) {
           if (!(detailCase_ == 1945)) {
-            detail_ = emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo.getDefaultInstance();
+            detail_ = emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo.getDefaultInstance();
           }
           gcgPveInfiniteInfoBuilder_ = new com.google.protobuf.SingleFieldBuilderV3<
-              emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo, emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo.Builder, emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfoOrBuilder>(
-                  (emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.GcgPveInfiniteDetailInfo) detail_,
+              emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo, emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo.Builder, emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfoOrBuilder>(
+                  (emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.GCGPveInfiniteDetailInfo) detail_,
                   getParentForChildren(),
                   isClean());
           detail_ = null;
@@ -25770,9 +25770,9 @@ public final class ActivityInfoOuterClass {
       }
 
       private com.google.protobuf.SingleFieldBuilderV3<
-          emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo, emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo.Builder, emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfoOrBuilder> gcgPveInfoBuilder_;
+          emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo, emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo.Builder, emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfoOrBuilder> gcgPveInfoBuilder_;
       /**
-       * <code>.GcgPveDetailInfo gcg_pve_info = 1398;</code>
+       * <code>.GCGPveDetailInfo gcg_pve_info = 1398;</code>
        * @return Whether the gcgPveInfo field is set.
        */
       @java.lang.Override
@@ -25780,27 +25780,27 @@ public final class ActivityInfoOuterClass {
         return detailCase_ == 1398;
       }
       /**
-       * <code>.GcgPveDetailInfo gcg_pve_info = 1398;</code>
+       * <code>.GCGPveDetailInfo gcg_pve_info = 1398;</code>
        * @return The gcgPveInfo.
        */
       @java.lang.Override
-      public emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo getGcgPveInfo() {
+      public emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo getGcgPveInfo() {
         if (gcgPveInfoBuilder_ == null) {
           if (detailCase_ == 1398) {
-            return (emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo) detail_;
+            return (emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo) detail_;
           }
-          return emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo.getDefaultInstance();
+          return emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo.getDefaultInstance();
         } else {
           if (detailCase_ == 1398) {
             return gcgPveInfoBuilder_.getMessage();
           }
-          return emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo.getDefaultInstance();
+          return emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo.getDefaultInstance();
         }
       }
       /**
-       * <code>.GcgPveDetailInfo gcg_pve_info = 1398;</code>
+       * <code>.GCGPveDetailInfo gcg_pve_info = 1398;</code>
        */
-      public Builder setGcgPveInfo(emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo value) {
+      public Builder setGcgPveInfo(emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo value) {
         if (gcgPveInfoBuilder_ == null) {
           if (value == null) {
             throw new NullPointerException();
@@ -25814,10 +25814,10 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgPveDetailInfo gcg_pve_info = 1398;</code>
+       * <code>.GCGPveDetailInfo gcg_pve_info = 1398;</code>
        */
       public Builder setGcgPveInfo(
-          emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo.Builder builderForValue) {
+          emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo.Builder builderForValue) {
         if (gcgPveInfoBuilder_ == null) {
           detail_ = builderForValue.build();
           onChanged();
@@ -25828,13 +25828,13 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgPveDetailInfo gcg_pve_info = 1398;</code>
+       * <code>.GCGPveDetailInfo gcg_pve_info = 1398;</code>
        */
-      public Builder mergeGcgPveInfo(emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo value) {
+      public Builder mergeGcgPveInfo(emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo value) {
         if (gcgPveInfoBuilder_ == null) {
           if (detailCase_ == 1398 &&
-              detail_ != emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo.getDefaultInstance()) {
-            detail_ = emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo.newBuilder((emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo) detail_)
+              detail_ != emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo.getDefaultInstance()) {
+            detail_ = emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo.newBuilder((emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo) detail_)
                 .mergeFrom(value).buildPartial();
           } else {
             detail_ = value;
@@ -25850,7 +25850,7 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgPveDetailInfo gcg_pve_info = 1398;</code>
+       * <code>.GCGPveDetailInfo gcg_pve_info = 1398;</code>
        */
       public Builder clearGcgPveInfo() {
         if (gcgPveInfoBuilder_ == null) {
@@ -25869,38 +25869,38 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgPveDetailInfo gcg_pve_info = 1398;</code>
+       * <code>.GCGPveDetailInfo gcg_pve_info = 1398;</code>
        */
-      public emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo.Builder getGcgPveInfoBuilder() {
+      public emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo.Builder getGcgPveInfoBuilder() {
         return getGcgPveInfoFieldBuilder().getBuilder();
       }
       /**
-       * <code>.GcgPveDetailInfo gcg_pve_info = 1398;</code>
+       * <code>.GCGPveDetailInfo gcg_pve_info = 1398;</code>
        */
       @java.lang.Override
-      public emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfoOrBuilder getGcgPveInfoOrBuilder() {
+      public emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfoOrBuilder getGcgPveInfoOrBuilder() {
         if ((detailCase_ == 1398) && (gcgPveInfoBuilder_ != null)) {
           return gcgPveInfoBuilder_.getMessageOrBuilder();
         } else {
           if (detailCase_ == 1398) {
-            return (emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo) detail_;
+            return (emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo) detail_;
           }
-          return emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo.getDefaultInstance();
+          return emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo.getDefaultInstance();
         }
       }
       /**
-       * <code>.GcgPveDetailInfo gcg_pve_info = 1398;</code>
+       * <code>.GCGPveDetailInfo gcg_pve_info = 1398;</code>
        */
       private com.google.protobuf.SingleFieldBuilderV3<
-          emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo, emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo.Builder, emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfoOrBuilder> 
+          emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo, emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo.Builder, emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfoOrBuilder> 
           getGcgPveInfoFieldBuilder() {
         if (gcgPveInfoBuilder_ == null) {
           if (!(detailCase_ == 1398)) {
-            detail_ = emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo.getDefaultInstance();
+            detail_ = emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo.getDefaultInstance();
           }
           gcgPveInfoBuilder_ = new com.google.protobuf.SingleFieldBuilderV3<
-              emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo, emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo.Builder, emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfoOrBuilder>(
-                  (emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.GcgPveDetailInfo) detail_,
+              emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo, emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo.Builder, emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfoOrBuilder>(
+                  (emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.GCGPveDetailInfo) detail_,
                   getParentForChildren(),
                   isClean());
           detail_ = null;
@@ -33666,9 +33666,9 @@ public final class ActivityInfoOuterClass {
       }
 
       private com.google.protobuf.SingleFieldBuilderV3<
-          emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo, emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo.Builder, emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfoOrBuilder> gcgAutoBattleCardDetailInfoBuilder_;
+          emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo, emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo.Builder, emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfoOrBuilder> gcgAutoBattleCardDetailInfoBuilder_;
       /**
-       * <code>.GcgAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
+       * <code>.GCGAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
        * @return Whether the gcgAutoBattleCardDetailInfo field is set.
        */
       @java.lang.Override
@@ -33676,27 +33676,27 @@ public final class ActivityInfoOuterClass {
         return detailCase_ == 619;
       }
       /**
-       * <code>.GcgAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
+       * <code>.GCGAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
        * @return The gcgAutoBattleCardDetailInfo.
        */
       @java.lang.Override
-      public emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo getGcgAutoBattleCardDetailInfo() {
+      public emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo getGcgAutoBattleCardDetailInfo() {
         if (gcgAutoBattleCardDetailInfoBuilder_ == null) {
           if (detailCase_ == 619) {
-            return (emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo) detail_;
+            return (emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo) detail_;
           }
-          return emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo.getDefaultInstance();
+          return emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo.getDefaultInstance();
         } else {
           if (detailCase_ == 619) {
             return gcgAutoBattleCardDetailInfoBuilder_.getMessage();
           }
-          return emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo.getDefaultInstance();
+          return emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo.getDefaultInstance();
         }
       }
       /**
-       * <code>.GcgAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
+       * <code>.GCGAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
        */
-      public Builder setGcgAutoBattleCardDetailInfo(emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo value) {
+      public Builder setGcgAutoBattleCardDetailInfo(emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo value) {
         if (gcgAutoBattleCardDetailInfoBuilder_ == null) {
           if (value == null) {
             throw new NullPointerException();
@@ -33710,10 +33710,10 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
+       * <code>.GCGAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
        */
       public Builder setGcgAutoBattleCardDetailInfo(
-          emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo.Builder builderForValue) {
+          emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo.Builder builderForValue) {
         if (gcgAutoBattleCardDetailInfoBuilder_ == null) {
           detail_ = builderForValue.build();
           onChanged();
@@ -33724,13 +33724,13 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
+       * <code>.GCGAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
        */
-      public Builder mergeGcgAutoBattleCardDetailInfo(emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo value) {
+      public Builder mergeGcgAutoBattleCardDetailInfo(emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo value) {
         if (gcgAutoBattleCardDetailInfoBuilder_ == null) {
           if (detailCase_ == 619 &&
-              detail_ != emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo.getDefaultInstance()) {
-            detail_ = emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo.newBuilder((emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo) detail_)
+              detail_ != emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo.getDefaultInstance()) {
+            detail_ = emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo.newBuilder((emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo) detail_)
                 .mergeFrom(value).buildPartial();
           } else {
             detail_ = value;
@@ -33746,7 +33746,7 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
+       * <code>.GCGAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
        */
       public Builder clearGcgAutoBattleCardDetailInfo() {
         if (gcgAutoBattleCardDetailInfoBuilder_ == null) {
@@ -33765,38 +33765,38 @@ public final class ActivityInfoOuterClass {
         return this;
       }
       /**
-       * <code>.GcgAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
+       * <code>.GCGAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
        */
-      public emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo.Builder getGcgAutoBattleCardDetailInfoBuilder() {
+      public emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo.Builder getGcgAutoBattleCardDetailInfoBuilder() {
         return getGcgAutoBattleCardDetailInfoFieldBuilder().getBuilder();
       }
       /**
-       * <code>.GcgAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
+       * <code>.GCGAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
        */
       @java.lang.Override
-      public emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfoOrBuilder getGcgAutoBattleCardDetailInfoOrBuilder() {
+      public emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfoOrBuilder getGcgAutoBattleCardDetailInfoOrBuilder() {
         if ((detailCase_ == 619) && (gcgAutoBattleCardDetailInfoBuilder_ != null)) {
           return gcgAutoBattleCardDetailInfoBuilder_.getMessageOrBuilder();
         } else {
           if (detailCase_ == 619) {
-            return (emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo) detail_;
+            return (emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo) detail_;
           }
-          return emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo.getDefaultInstance();
+          return emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo.getDefaultInstance();
         }
       }
       /**
-       * <code>.GcgAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
+       * <code>.GCGAutoBattleCardDetailInfo gcg_auto_battle_card_detail_info = 619;</code>
        */
       private com.google.protobuf.SingleFieldBuilderV3<
-          emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo, emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo.Builder, emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfoOrBuilder> 
+          emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo, emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo.Builder, emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfoOrBuilder> 
           getGcgAutoBattleCardDetailInfoFieldBuilder() {
         if (gcgAutoBattleCardDetailInfoBuilder_ == null) {
           if (!(detailCase_ == 619)) {
-            detail_ = emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo.getDefaultInstance();
+            detail_ = emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo.getDefaultInstance();
           }
           gcgAutoBattleCardDetailInfoBuilder_ = new com.google.protobuf.SingleFieldBuilderV3<
-              emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo, emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo.Builder, emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfoOrBuilder>(
-                  (emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.GcgAutoBattleCardDetailInfo) detail_,
+              emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo, emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo.Builder, emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfoOrBuilder>(
+                  (emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.GCGAutoBattleCardDetailInfo) detail_,
                   getParentForChildren(),
                   isClean());
           detail_ = null;
@@ -35586,7 +35586,7 @@ public final class ActivityInfoOuterClass {
       "ingV2Info.proto\032&ActivityMultiCharacterD" +
       "etailInfo.proto\032\025PartyDetailInfo.proto\032\032" +
       "WeekActiveDetailInfo.proto\032\024Mvm2DetailIn" +
-      "fo.proto\032\034GcgPvePuzzleDetailInfo.proto\032\035" +
+      "fo.proto\032\034GCGPvePuzzleDetailInfo.proto\032\035" +
       "GachaActivityDetailInfo.proto\032\035LanternRi" +
       "teV5DetailInfo.proto\032\032FishingJoyDetailIn" +
       "fo.proto\032\033FleurFairV2DetailInfo.proto\032\032A" +
@@ -35596,7 +35596,7 @@ public final class ActivityInfoOuterClass {
       "ailInfo.proto\032#LanternRiteActivityDetail" +
       "Info.proto\032\031TeamChainDetailInfo.proto\032!B" +
       "artenderActivityDetailInfo.proto\032!Effigy" +
-      "ChallengeV4DetailInfo.proto\032\033GcgFestival" +
+      "ChallengeV4DetailInfo.proto\032\033GCGFestival" +
       "DetailInfo.proto\032\037VintageActivityDetailI" +
       "nfo.proto\032\035HideAndSeekV4DetailInfo.proto" +
       "\032!FleurFairActivityDetailInfo.proto\032\036Fli" +
@@ -35631,8 +35631,8 @@ public final class ActivityInfoOuterClass {
       "o.proto\032\'ElectroherculesBattleV3DetailIn" +
       "fo.proto\032\033UgcActivityDetailInfo.proto\032\025U" +
       "gcV2DetailInfo.proto\032\037GreatFestivalV2Det" +
-      "ailInfo.proto\032\036GcgPveInfiniteDetailInfo." +
-      "proto\032\026GcgPveDetailInfo.proto\032\033SorushTri" +
+      "ailInfo.proto\032\036GCGPveInfiniteDetailInfo." +
+      "proto\032\026GCGPveDetailInfo.proto\032\033SorushTri" +
       "alDetailInfo.proto\032\033CoinCollectDetailInf" +
       "o.proto\032\034RechargeDiskDetailInfo.proto\032 C" +
       "rucibleActivityDetailInfo.proto\032#TrialAv" +
@@ -35677,7 +35677,7 @@ public final class ActivityInfoOuterClass {
       "proto\032\035PhotoUnderseaDetailInfo.proto\032\037Qu" +
       "ickTimeCombatDetailInfo.proto\032\034GearActiv" +
       "ityDetailInfo.proto\032\035AsterActivityDetail" +
-      "Info.proto\032!GcgAutoBattleCardDetailInfo." +
+      "Info.proto\032!GCGAutoBattleCardDetailInfo." +
       "proto\032\032SummerTimeDetailInfo.proto\032\031SeaLa" +
       "mpV3DetailInfo.proto\032\033NatlanArenaDetailI" +
       "nfo.proto\032 BlessingActivityDetailInfo.pr" +
@@ -35722,7 +35722,7 @@ public final class ActivityInfoOuterClass {
       "tyDetailInfoH\000\0229\n\027week_active_detail_inf" +
       "o\030\340\013 \001(\0132\025.WeekActiveDetailInfoH\000\022-\n\021mvm" +
       "_2_detail_info\030\350\004 \001(\0132\017.Mvm2DetailInfoH\000" +
-      "\0227\n\023gcg_pve_puzzle_info\030\307\016 \001(\0132\027.GcgPveP" +
+      "\0227\n\023gcg_pve_puzzle_info\030\307\016 \001(\0132\027.GCGPveP" +
       "uzzleDetailInfoH\000\022.\n\ngacha_info\030. \001(\0132\030." +
       "GachaActivityDetailInfoH\000\022A\n\034lantern_rit" +
       "e_v_5_detail_info\030\271\005 \001(\0132\030.LanternRiteV5" +
@@ -35742,7 +35742,7 @@ public final class ActivityInfoOuterClass {
       "nfo\030\237\r \001(\0132\034.BartenderActivityDetailInfo" +
       "H\000\022B\n\031effigy_challenge_v_4_info\030\205\001 \001(\0132\034" +
       ".EffigyChallengeV4DetailInfoH\000\0224\n\021gcg_fe" +
-      "stival_info\030\323\002 \001(\0132\026.GcgFestivalDetailIn" +
+      "stival_info\030\323\002 \001(\0132\026.GCGFestivalDetailIn" +
       "foH\000\0223\n\014vintage_info\030\346\013 \001(\0132\032.VintageAct" +
       "ivityDetailInfoH\000\022B\n\035hide_and_seek_v_4_d" +
       "etail_info\030\262\016 \001(\0132\030.HideAndSeekV4DetailI" +
@@ -35807,8 +35807,8 @@ public final class ActivityInfoOuterClass {
       ".UgcV2DetailInfoH\000\022E\n\036great_festival_v_2" +
       "_detail_info\030\333\002 \001(\0132\032.GreatFestivalV2Det" +
       "ailInfoH\000\022;\n\025gcg_pve_infinite_info\030\231\017 \001(" +
-      "\0132\031.GcgPveInfiniteDetailInfoH\000\022*\n\014gcg_pv" +
-      "e_info\030\366\n \001(\0132\021.GcgPveDetailInfoH\000\0224\n\021so" +
+      "\0132\031.GCGPveInfiniteDetailInfoH\000\022*\n\014gcg_pv" +
+      "e_info\030\366\n \001(\0132\021.GCGPveDetailInfoH\000\0224\n\021so" +
       "rush_trial_info\030\252\003 \001(\0132\026.SorushTrialDeta" +
       "ilInfoH\000\0224\n\021coin_collect_info\030\245\013 \001(\0132\026.C" +
       "oinCollectDetailInfoH\000\022=\n\031recharge_disk_" +
@@ -35891,7 +35891,7 @@ public final class ActivityInfoOuterClass {
       "\022-\n\tgear_info\030\203\003 \001(\0132\027.GearActivityDetai" +
       "lInfoH\000\022.\n\naster_info\030\032 \001(\0132\030.AsterActiv" +
       "ityDetailInfoH\000\022I\n gcg_auto_battle_card_" +
-      "detail_info\030\353\004 \001(\0132\034.GcgAutoBattleCardDe" +
+      "detail_info\030\353\004 \001(\0132\034.GCGAutoBattleCardDe" +
       "tailInfoH\000\0222\n\020summer_time_info\030\341\007 \001(\0132\025." +
       "SummerTimeDetailInfoH\000\0222\n\021sea_lamp_v_3_i" +
       "nfo\030\321\006 \001(\0132\024.SeaLampV3DetailInfoH\000\022;\n\030na" +
@@ -35935,7 +35935,7 @@ public final class ActivityInfoOuterClass {
           emu.grasscutter.net.proto.PartyDetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.WeekActiveDetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.Mvm2DetailInfoOuterClass.getDescriptor(),
-          emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.getDescriptor(),
+          emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.GachaActivityDetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.LanternRiteV5DetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.FishingJoyDetailInfoOuterClass.getDescriptor(),
@@ -35948,7 +35948,7 @@ public final class ActivityInfoOuterClass {
           emu.grasscutter.net.proto.TeamChainDetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.BartenderActivityDetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.EffigyChallengeV4DetailInfoOuterClass.getDescriptor(),
-          emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.getDescriptor(),
+          emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.VintageActivityDetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.HideAndSeekV4DetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.FleurFairActivityDetailInfoOuterClass.getDescriptor(),
@@ -35992,8 +35992,8 @@ public final class ActivityInfoOuterClass {
           emu.grasscutter.net.proto.UgcActivityDetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.UgcV2DetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.GreatFestivalV2DetailInfoOuterClass.getDescriptor(),
-          emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.getDescriptor(),
-          emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.getDescriptor(),
+          emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.getDescriptor(),
+          emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.SorushTrialDetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.CoinCollectDetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.RechargeDiskDetailInfoOuterClass.getDescriptor(),
@@ -36049,7 +36049,7 @@ public final class ActivityInfoOuterClass {
           emu.grasscutter.net.proto.QuickTimeCombatDetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.GearActivityDetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.AsterActivityDetailInfoOuterClass.getDescriptor(),
-          emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.getDescriptor(),
+          emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.SummerTimeDetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.SeaLampV3DetailInfoOuterClass.getDescriptor(),
           emu.grasscutter.net.proto.NatlanArenaDetailInfoOuterClass.getDescriptor(),
@@ -36097,7 +36097,7 @@ public final class ActivityInfoOuterClass {
     emu.grasscutter.net.proto.PartyDetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.WeekActiveDetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.Mvm2DetailInfoOuterClass.getDescriptor();
-    emu.grasscutter.net.proto.GcgPvePuzzleDetailInfoOuterClass.getDescriptor();
+    emu.grasscutter.net.proto.GCGPvePuzzleDetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.GachaActivityDetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.LanternRiteV5DetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.FishingJoyDetailInfoOuterClass.getDescriptor();
@@ -36110,7 +36110,7 @@ public final class ActivityInfoOuterClass {
     emu.grasscutter.net.proto.TeamChainDetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.BartenderActivityDetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.EffigyChallengeV4DetailInfoOuterClass.getDescriptor();
-    emu.grasscutter.net.proto.GcgFestivalDetailInfoOuterClass.getDescriptor();
+    emu.grasscutter.net.proto.GCGFestivalDetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.VintageActivityDetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.HideAndSeekV4DetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.FleurFairActivityDetailInfoOuterClass.getDescriptor();
@@ -36154,8 +36154,8 @@ public final class ActivityInfoOuterClass {
     emu.grasscutter.net.proto.UgcActivityDetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.UgcV2DetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.GreatFestivalV2DetailInfoOuterClass.getDescriptor();
-    emu.grasscutter.net.proto.GcgPveInfiniteDetailInfoOuterClass.getDescriptor();
-    emu.grasscutter.net.proto.GcgPveDetailInfoOuterClass.getDescriptor();
+    emu.grasscutter.net.proto.GCGPveInfiniteDetailInfoOuterClass.getDescriptor();
+    emu.grasscutter.net.proto.GCGPveDetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.SorushTrialDetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.CoinCollectDetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.RechargeDiskDetailInfoOuterClass.getDescriptor();
@@ -36211,7 +36211,7 @@ public final class ActivityInfoOuterClass {
     emu.grasscutter.net.proto.QuickTimeCombatDetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.GearActivityDetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.AsterActivityDetailInfoOuterClass.getDescriptor();
-    emu.grasscutter.net.proto.GcgAutoBattleCardDetailInfoOuterClass.getDescriptor();
+    emu.grasscutter.net.proto.GCGAutoBattleCardDetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.SummerTimeDetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.SeaLampV3DetailInfoOuterClass.getDescriptor();
     emu.grasscutter.net.proto.NatlanArenaDetailInfoOuterClass.getDescriptor();
