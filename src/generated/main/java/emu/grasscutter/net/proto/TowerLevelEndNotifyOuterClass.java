@@ -60,7 +60,7 @@ public final class TowerLevelEndNotifyOuterClass {
     int getFinishedStarCondList(int index);
 
     /**
-     * <code>uint32 next_floor_id = 4;</code>
+     * <code>uint32 next_floor_id = 10;</code>
      * @return The nextFloorId.
      */
     int getNextFloorId();
@@ -72,7 +72,7 @@ public final class TowerLevelEndNotifyOuterClass {
     boolean getIsSuccess();
 
     /**
-     * <code>uint32 continue_state = 10;</code>
+     * <code>uint32 continue_state = 4;</code>
      * @return The continueState.
      */
     int getContinueState();
@@ -131,7 +131,7 @@ public final class TowerLevelEndNotifyOuterClass {
               break;
             case 32: {
 
-              nextFloorId_ = input.readUInt32();
+              continueState_ = input.readUInt32();
               break;
             }
             case 42: {
@@ -150,7 +150,7 @@ public final class TowerLevelEndNotifyOuterClass {
             }
             case 80: {
 
-              continueState_ = input.readUInt32();
+              nextFloorId_ = input.readUInt32();
               break;
             }
             case 112: {
@@ -397,10 +397,10 @@ public final class TowerLevelEndNotifyOuterClass {
     }
     private int finishedStarCondListMemoizedSerializedSize = -1;
 
-    public static final int NEXT_FLOOR_ID_FIELD_NUMBER = 4;
+    public static final int NEXT_FLOOR_ID_FIELD_NUMBER = 10;
     private int nextFloorId_;
     /**
-     * <code>uint32 next_floor_id = 4;</code>
+     * <code>uint32 next_floor_id = 10;</code>
      * @return The nextFloorId.
      */
     @java.lang.Override
@@ -419,10 +419,10 @@ public final class TowerLevelEndNotifyOuterClass {
       return isSuccess_;
     }
 
-    public static final int CONTINUE_STATE_FIELD_NUMBER = 10;
+    public static final int CONTINUE_STATE_FIELD_NUMBER = 4;
     private int continueState_;
     /**
-     * <code>uint32 continue_state = 10;</code>
+     * <code>uint32 continue_state = 4;</code>
      * @return The continueState.
      */
     @java.lang.Override
@@ -445,8 +445,8 @@ public final class TowerLevelEndNotifyOuterClass {
     public void writeTo(com.google.protobuf.CodedOutputStream output)
                         throws java.io.IOException {
       getSerializedSize();
-      if (nextFloorId_ != 0) {
-        output.writeUInt32(4, nextFloorId_);
+      if (continueState_ != 0) {
+        output.writeUInt32(4, continueState_);
       }
       for (int i = 0; i < rewardItemList_.size(); i++) {
         output.writeMessage(5, rewardItemList_.get(i));
@@ -454,8 +454,8 @@ public final class TowerLevelEndNotifyOuterClass {
       if (isSuccess_ != false) {
         output.writeBool(9, isSuccess_);
       }
-      if (continueState_ != 0) {
-        output.writeUInt32(10, continueState_);
+      if (nextFloorId_ != 0) {
+        output.writeUInt32(10, nextFloorId_);
       }
       if (getFinishedStarCondListList().size() > 0) {
         output.writeUInt32NoTag(114);
@@ -473,9 +473,9 @@ public final class TowerLevelEndNotifyOuterClass {
       if (size != -1) return size;
 
       size = 0;
-      if (nextFloorId_ != 0) {
+      if (continueState_ != 0) {
         size += com.google.protobuf.CodedOutputStream
-          .computeUInt32Size(4, nextFloorId_);
+          .computeUInt32Size(4, continueState_);
       }
       for (int i = 0; i < rewardItemList_.size(); i++) {
         size += com.google.protobuf.CodedOutputStream
@@ -485,9 +485,9 @@ public final class TowerLevelEndNotifyOuterClass {
         size += com.google.protobuf.CodedOutputStream
           .computeBoolSize(9, isSuccess_);
       }
-      if (continueState_ != 0) {
+      if (nextFloorId_ != 0) {
         size += com.google.protobuf.CodedOutputStream
-          .computeUInt32Size(10, continueState_);
+          .computeUInt32Size(10, nextFloorId_);
       }
       {
         int dataSize = 0;
@@ -1194,7 +1194,7 @@ public final class TowerLevelEndNotifyOuterClass {
 
       private int nextFloorId_ ;
       /**
-       * <code>uint32 next_floor_id = 4;</code>
+       * <code>uint32 next_floor_id = 10;</code>
        * @return The nextFloorId.
        */
       @java.lang.Override
@@ -1202,7 +1202,7 @@ public final class TowerLevelEndNotifyOuterClass {
         return nextFloorId_;
       }
       /**
-       * <code>uint32 next_floor_id = 4;</code>
+       * <code>uint32 next_floor_id = 10;</code>
        * @param value The nextFloorId to set.
        * @return This builder for chaining.
        */
@@ -1213,7 +1213,7 @@ public final class TowerLevelEndNotifyOuterClass {
         return this;
       }
       /**
-       * <code>uint32 next_floor_id = 4;</code>
+       * <code>uint32 next_floor_id = 10;</code>
        * @return This builder for chaining.
        */
       public Builder clearNextFloorId() {
@@ -1256,7 +1256,7 @@ public final class TowerLevelEndNotifyOuterClass {
 
       private int continueState_ ;
       /**
-       * <code>uint32 continue_state = 10;</code>
+       * <code>uint32 continue_state = 4;</code>
        * @return The continueState.
        */
       @java.lang.Override
@@ -1264,7 +1264,7 @@ public final class TowerLevelEndNotifyOuterClass {
         return continueState_;
       }
       /**
-       * <code>uint32 continue_state = 10;</code>
+       * <code>uint32 continue_state = 4;</code>
        * @param value The continueState to set.
        * @return This builder for chaining.
        */
@@ -1275,7 +1275,7 @@ public final class TowerLevelEndNotifyOuterClass {
         return this;
       }
       /**
-       * <code>uint32 continue_state = 10;</code>
+       * <code>uint32 continue_state = 4;</code>
        * @return This builder for chaining.
        */
       public Builder clearContinueState() {
@@ -1354,9 +1354,9 @@ public final class TowerLevelEndNotifyOuterClass {
       "\n\031TowerLevelEndNotify.proto\032\017ItemParam.p" +
       "roto\"\273\002\n\023TowerLevelEndNotify\022$\n\020reward_i" +
       "tem_list\030\005 \003(\0132\n.ItemParam\022\037\n\027finished_s" +
-      "tar_cond_list\030\016 \003(\r\022\025\n\rnext_floor_id\030\004 \001" +
+      "tar_cond_list\030\016 \003(\r\022\025\n\rnext_floor_id\030\n \001" +
       "(\r\022\022\n\nis_success\030\t \001(\010\022\026\n\016continue_state" +
-      "\030\n \001(\r\"\231\001\n\021ContinueStateType\022(\n$CONTINUE" +
+      "\030\004 \001(\r\"\231\001\n\021ContinueStateType\022(\n$CONTINUE" +
       "_STATE_TYPE_CAN_NOT_CONTINUE\020\000\022,\n(CONTIN" +
       "UE_STATE_TYPE_CAN_ENTER_NEXT_LEVEL\020\001\022,\n(" +
       "CONTINUE_STATE_TYPE_CAN_ENTER_NEXT_FLOOR" +

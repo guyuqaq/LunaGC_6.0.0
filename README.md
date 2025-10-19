@@ -1,4 +1,4 @@
-# LunaGC-6.0.0 VERY WIP
+# LunaGC-6.0.0 WIP
 
 ## Updated version of Grasscutters, with some new features implemented.
 Old Discord for LunaGC https://discord.gg/7D5gkyJR5Y (don't ask for support there, instead create an issue in this repository)
@@ -9,7 +9,7 @@ This is possibly the only public PS with updated mob and gadget spawns! (Up to V
 Contribute if you want/can...
 
 # Outstanding bug(s) hall of fame:
-- Abyss (as expected) - can't pass to next floor and completing a chamber correctly results in a fail - not to forget the wrong floor and chamber numbers being displayed (for example floor 0 chamber 1000)
+- Abyss (as expected) -  wrong floor and chamber numbers being displayed (for example floor 0 chamber 1000) and buffs don't apply/change
 
 # Outstanding critical stuff that does not work hall of fame:
 - Lauma and Flins (bad res)

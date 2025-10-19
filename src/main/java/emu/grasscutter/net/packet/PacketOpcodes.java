@@ -250,8 +250,8 @@ public final class PacketOpcodes {
     public static final int WearEquipReq = 7580; 
 	public static final int WearEquipRsp = 1189; 
     public static final int GetActivityInfoReq = 27744; 
-    public static final int GetActivityInfoRsp = 21686; // lazy to import all of activityinfo proto
-    public static final int ActivityInfoNotify = 9807; // ^ 
+    public static final int GetActivityInfoRsp = 21686;
+    public static final int ActivityInfoNotify = 9807; 
     public static final int TakeoffEquipReq = 2008; 
     public static final int TakeoffEquipRsp = 28389; 
     public static final int AvatarDieAnimationEndReq = 25215; 
@@ -291,7 +291,7 @@ public final class PacketOpcodes {
 	public static final int DungeonPlayerDieNotify = 20376; 
 	public static final int DungeonRestartInviteNotify = 20264;
 	public static final int DungeonRestartInviteReplyNotify = 5301;
-	public static final int DungeonSettleNotify = 20095; // tbd 
+	public static final int DungeonSettleNotify = 20095;
     public static final int DungeonRestartReq = 21623;
     public static final int DungeonRestartRsp = 5702;
     public static final int PlayerEnterDungeonReq = 24794;
@@ -528,6 +528,7 @@ public final class PacketOpcodes {
     public static final int PersonalLineAllDataRsp = 478;
     public static final int UnlockPersonalLineReq = 5001; // ?
     public static final int UnlockPersonalLineRsp = 25739;
+	public static final int TrialAvatarFirstPassDungeonNotify = 25781;
 
     // useless
     public static final int PlayerReportReq = 5599; // who tf are u gonna report
@@ -613,7 +614,6 @@ public final class PacketOpcodes {
 	public static final int TakeBattlePassRewardRsp = 1;
 	public static final int TakeOfferingLevelRewardReq = 1;
 	public static final int ToTheMoonQueryPathReq = 1;
-	public static final int TrialAvatarFirstPassDungeonNotify = 1;
 	public static final int UpdateAbilityCreatedMovingPlatformNotify = 1;
 	public static final int UpdatePS4FriendListRsp = 1;
 	public static final int WatcherEventTypeNotify = 1;
