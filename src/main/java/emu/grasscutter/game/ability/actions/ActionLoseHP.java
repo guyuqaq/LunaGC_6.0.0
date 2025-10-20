@@ -31,7 +31,7 @@ public final class ActionLoseHP extends AbilityActionHandler {
                 }
 
         if (owner == null) {
-       Grasscutter.getLogger().info("Owner is null");
+            Grasscutter.getLogger().info("Owner is null");
         }   
 
         if (action.enableLockHP && target.isLockHP()) {
